@@ -1,4 +1,4 @@
-const vet = require("./edd2")
+const vet = require("./questoes js/q1")
 
 class tsi{
     constructor(){
